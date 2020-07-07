@@ -21,3 +21,8 @@ This is the table of contents of the [src](src) folder.
 - [Pie plot examples](src/pie)
 - [Subplot examples](src/subplot)
 - [Real life plot examples](src/real-life)
+
+
+# Documentation
+
+Gnuplot documentation is available [here](gnuplot-doc.pdf), or [here](http://www.gnuplot.info/documentation.html).
