@@ -12,6 +12,13 @@ foo@bar:~$ sudo apt install gnuplot
 ```
 
 
+# Generating plot
+
+```console
+foo@bar:~$ gnuplot script-name.gp
+```
+
+
 # Table of Contents
 
 This is the table of contents of the [src](src) folder.
