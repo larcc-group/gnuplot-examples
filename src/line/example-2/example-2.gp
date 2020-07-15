@@ -1,6 +1,9 @@
 set terminal pdf enhanced
 set output "example-2.pdf"
 
+# set terminal jpeg
+# set output "example-2.jpeg"
+
 set key right top
 
 set title "Simple Example 2"
