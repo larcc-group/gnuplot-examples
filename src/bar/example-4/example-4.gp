@@ -1,6 +1,9 @@
 set terminal pdf enhanced
 set output "example-4.pdf"
 
+# set terminal jpeg
+# set output "example-4.jpeg"
+
 set title "Simple Example 4"
 set xlabel "x"
 set ylabel "y"
