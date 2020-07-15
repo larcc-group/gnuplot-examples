@@ -6,6 +6,7 @@ set key off
 set title "Simple Example 1"
 set xlabel "People"
 set ylabel "Something random"
+set xtics rotate out
 
 set yrange [0:13]
 
