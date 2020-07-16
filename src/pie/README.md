@@ -10,6 +10,4 @@ Below are two links that will help you to create a pie plot in Gnuplot:
 
 ## Disclaimer
 
-I would choose a library that already supports pie plots, like Matplotlib.
-
-    If you choose to use Gnuplot, good luck!
+I would choose a library that already supports pie plots, like Matplotlib. If you choose to use Gnuplot, good luck!
