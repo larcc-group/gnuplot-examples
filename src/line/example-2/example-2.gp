@@ -1,3 +1,5 @@
+reset
+
 set terminal pdf enhanced
 set output "example-2.pdf"
 
