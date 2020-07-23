@@ -33,3 +33,9 @@ This is the table of contents of the [src](src) folder.
 # Documentation
 
 Gnuplot documentation is available [here](gnuplot-doc.pdf), or [here](http://www.gnuplot.info/documentation.html).
+
+
+# Other resources
+
+- [https://github.com/TheFox/gnuplot-examples](https://github.com/TheFox/gnuplot-examples)
+- [https://github.com/cirosantilli/gnuplot-cheat](https://github.com/cirosantilli/gnuplot-cheat)
