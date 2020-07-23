@@ -8,10 +8,6 @@
 <img src="example-2/example-2.jpeg" style="max-width: 480px" />
 
 
-## Other ideas
+## [Example 3](example-3)
 
-You can combine Gnuplot with other programming languages to process raw data and create the `.dat` file. To run a Python script within a Gnuplot script, for example, you should use the folowing:
-
-```gnuplot
-!python process-data.py
-```
+<img src="example-3/example-3.jpeg" style="max-width: 480px" />
