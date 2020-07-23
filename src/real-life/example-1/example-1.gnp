@@ -19,6 +19,7 @@ set style data histogram
 set style histogram cluster gap 2 errorbars linewidth 1
 set style fill solid border rgb "black"
 
+# set logscale y 2
 set auto x
 
 plot for [i=2:12:2] "example-1.dat" using i:i+1:xticlabels(1) title col(i) linewidth 1
