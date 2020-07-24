@@ -37,6 +37,7 @@ Gnuplot documentation is available [here](gnuplot-doc.pdf), or [here](http://www
 
 # Other resources
 
+- [http://gnuplot.sourceforge.net/demo/](http://gnuplot.sourceforge.net/demo/)
 - [http://gnuplot.info/demo_canvas_5.2/index.html](http://gnuplot.info/demo_canvas_5.2/index.html)
 - [https://github.com/TheFox/gnuplot-examples](https://github.com/TheFox/gnuplot-examples)
 - [https://github.com/cirosantilli/gnuplot-cheat](https://github.com/cirosantilli/gnuplot-cheat)
